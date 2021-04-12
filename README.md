@@ -1,1 +1,2 @@
 # EstudoCasoShopee
+Estudo de Caso Passo a Passo Para utilizar a aplicação: 1- É uma aplicação em Java por isso, deverá ter alguma IDE para rodar, a IDE utiliza pro mim foi o Eclipse 2- A classe Interface é a classe principal do programa, clique em Run para ser executado. 3- Para Adicionar,editar, remover ou listar os itens de vendas siga as instruções da aplicação, digitando o numero correspondente a cada um. 4- Os numeros deverao ser digitados separados pro virgula. Ex: 20,00
